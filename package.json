@@ -4,7 +4,7 @@
          "repository": { "url": "https://github.com/Grubba27/crazy-spacings"},
 	"displayName": "crazy spacings",
 	"description": "when you click tab or space it randomize all -> use the comand pallet to start",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"engines": {
          "vscode": "^1.61.0"
 		
