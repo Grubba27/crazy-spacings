@@ -7,18 +7,19 @@
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.61.0"
+		
 	},
 	"categories": [
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:crazy-spacings.crazy"
+        "onCommand:crazySpacings.crazySpacings"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "crazy-spacings.crazy",
+				"command": "crazySpacings.crazySpacings",
 				"title": "Start"
 			}
 		]
