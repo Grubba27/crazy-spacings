@@ -1,5 +1,7 @@
 {
   "name": "crazy-spacings",
+  "publisher": "ggrubba",
+  "repository": { "url": "https://github.com/Grubba27/crazy-spacings"},
 	"displayName": "crazy spacings",
 	"description": "when you click tab or space it randomize all",
 	"version": "0.0.1",
